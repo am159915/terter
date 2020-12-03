@@ -93,58 +93,70 @@ def safeprint(title , value):
 
 for k in range(20):
     inp  = input("Order: ")
-    for o in objs_array:
-        if inp.lower() ==  o.prefix.lower():
-            print("PRE:"+o.prefix)
-            safeprint("     Meaning",o.prefixm)
-            safeprint("     Example", o.example)
-            safeprint("     Definition", o.definition)
-            break
-        elif inp.lower() ==  o.suffix.lower():
-            print("SUF:", o.suffix)
-            safeprint("     Meaning",o.suffixm)
-            safeprint("     Example", o.example)
-            safeprint("     Definition", o.definition)
-            break
-        elif inp.lower() ==  o.root.lower():
-            print("ROT:"+o.root)
-            safeprint("     Meaning",o.rootm)
-            safeprint("     Example", o.example)
-            safeprint("     Definition", o.definition)
-            break
-        if inp.lower() == o.example.lower():
-            print("EX:" + o.example)
-            safeprint("     Suffix", o.suffix)
-            safeprint("     Meaning", o.suffixm)
-            safeprint("     Prefix", o.prefix)
-            safeprint("     Meaning", o.prefixm)
-            safeprint("     Definition", o.definition)
-            break
-        elif inp.lower() in o.prefix.lower():
-            print("PRE:" + o.prefix)
-            safeprint("     Meaning", o.prefixm)
-            safeprint("     Example", o.example)
-            safeprint("     Definition", o.definition)
-            continue
-        elif inp.lower() in o.suffix.lower():
-            print("SUF:", o.suffix)
-            safeprint("     Meaning", o.suffixm)
-            safeprint("     Example", o.example)
-            safeprint("     Definition", o.definition)
-            continue
-        elif inp.lower() in  o.root.lower():
-            print("ROT:"+o.root)
-            safeprint("     Meaning",o.rootm)
-            safeprint("     Example", o.example)
-            safeprint("     Definition", o.definition)
-            continue
-        elif inp.lower() in  o.example.lower():
-            print("EX:"+o.example)
-            safeprint("     Suffix" , o.suffix)
-            safeprint("     Meaning",o.suffixm)
-            safeprint("     Prefix" , o.prefix)
-            safeprint("     Meaning" , o.prefixm)
-            safeprint("     Root", o.root)
-            safeprint("     Meaning", o.rootm)
-            safeprint("     Definition" , o.definition)
-   
+    if inp == "d":
+        xx = input()
+        for o in objs_array:
+            if xx.lower() in o.definition.lower():
+                print("DEF:" + o.definition)
+                safeprint("     Example", o.example)
+                safeprint("     Suffix", o.suffix)
+                safeprint("     Meaning", o.suffixm)
+                safeprint("     Prefix", o.prefix)
+                safeprint("     Meaning", o.prefixm)
+                safeprint("     Root", o.root)
+                safeprint("     Meaning", o.rootm)
+    else:
+        for o in objs_array:
+            if inp.lower() ==  o.prefix.lower():
+                print("PRE:"+o.prefix)
+                safeprint("     Meaning",o.prefixm)
+                safeprint("     Example", o.example)
+                safeprint("     Definition", o.definition)
+                break
+            elif inp.lower() ==  o.suffix.lower():
+                print("SUF:", o.suffix)
+                safeprint("     Meaning",o.suffixm)
+                safeprint("     Example", o.example)
+                safeprint("     Definition", o.definition)
+                break
+            elif inp.lower() ==  o.root.lower():
+                print("ROT:"+o.root)
+                safeprint("     Meaning",o.rootm)
+                safeprint("     Example", o.example)
+                safeprint("     Definition", o.definition)
+                break
+            if inp.lower() == o.example.lower():
+                print("EX:" + o.example)
+                safeprint("     Suffix", o.suffix)
+                safeprint("     Meaning", o.suffixm)
+                safeprint("     Prefix", o.prefix)
+                safeprint("     Meaning", o.prefixm)
+                safeprint("     Definition", o.definition)
+                break
+            elif inp.lower() in o.prefix.lower():
+                print("PRE:" + o.prefix)
+                safeprint("     Meaning", o.prefixm)
+                safeprint("     Example", o.example)
+                safeprint("     Definition", o.definition)
+                continue
+            elif inp.lower() in o.suffix.lower():
+                print("SUF:", o.suffix)
+                safeprint("     Meaning", o.suffixm)
+                safeprint("     Example", o.example)
+                safeprint("     Definition", o.definition)
+                continue
+            elif inp.lower() in  o.root.lower():
+                print("ROT:"+o.root)
+                safeprint("     Meaning",o.rootm)
+                safeprint("     Example", o.example)
+                safeprint("     Definition", o.definition)
+                continue
+            elif inp.lower() in  o.example.lower():
+                print("EX:"+o.example)
+                safeprint("     Suffix" , o.suffix)
+                safeprint("     Meaning",o.suffixm)
+                safeprint("     Prefix" , o.prefix)
+                safeprint("     Meaning" , o.prefixm)
+                safeprint("     Root", o.root)
+                safeprint("     Meaning", o.rootm)
+                safeprint("     Definition" , o.definition)
