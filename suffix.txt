@@ -1,0 +1,280 @@
+-ia
+Condition of
+Phobia
+Persistent and exaggerated fear
+-ism
+Condition of
+Alcoholism
+Chronic dependence to alcohol 
+-sis
+Condition of
+acidosis
+Acid condition of body fluids 
+-y
+Condition of
+Atony
+Lack of muscle tone
+-logy 
+Study of 
+Physiology 
+Study of function of a living organism 
+-iatry 
+Medical specialty 
+Psychiatry 
+Study and treatment of mental illness 
+-iatrics 
+Medical specialty
+Geriatrics 
+study and treatment of the aged 
+-ics 
+Medical specialty
+Orthopedics 
+study and treatment of the skeleton and joints 
+-ist 
+Specialist in a field of study 
+Cardiologist 
+A physician skilled in the diagnosis and treatment of heart diseases 
+-ian 
+Specialist in a field of study 
+Pediatrician 
+A physician who specializes in the diagnosis and treatment of children diseases
+-icle 
+Small or Minute 
+Ventricle 
+small cavity, as of the brain or heart 
+-ole 
+Small or Minute 
+Arteriole 
+minute artery 
+-ule 
+Small or Minute 
+Venule 
+small vein
+-ac
+
+Cardiac 
+Pertaining to the heart 
+-al 
+
+Cerebral 
+Pertaining to the cerebrum, the largest part of the brain. 
+-ar 
+
+Vascular 
+Pertaining to blood vessels 
+-ary 
+
+Urinary 
+Pertaining to urine 
+-ic 
+
+Thoracic 
+Pertaining to the chest 
+-ical 
+
+Surgical 
+Pertaining to surgery 
+-ile 
+
+Fibrile 
+Pertaining to fever 
+-ous 
+
+Venous 
+Pertaining to a vein 
+-form 
+
+Epileptiform 
+Like or resembling epilepsy 
+-oid 
+
+Mucoid 
+Like or resembling mucus
+-ectomy 
+Excision, removal 
+Appendectomy 
+Excision of the appendix 
+-centesis
+Surgical puncture 
+Arthrocentesis 
+Puncture of a joint cavity for aspiration of fluid 
+-stomy 
+Forming an opening 
+Tracheostomy 
+forming an opening into the trachea 
+-tomy 
+Incision, to cut into 
+Tracheotomy 
+Surgical incision (through the neck) into the trachea 
+-desis 
+Binding, stabilization 
+Arthrodesis 
+Surgical fusion of a joint 
+-rhaphy 
+Suture 
+Myorrhaphy 
+Suture of a muscle 
+-stasis 
+Stop, control 
+Hemostasis 
+Stopping the escape of blood
+-pexy 
+Fixation 
+Hysteropexy 
+Surgical fixation of the uterus 
+-plasty 
+Surgical repair 
+Rhinoplasty 
+Surgical repair of the nose 
+-clasis 
+To break down, refracture 
+Osteoclasis 
+Surgical fracture or refracture of bones 
+-lysis 
+Loosening, seperation, destruction 
+Enterolysis 
+Surgical separation of intestinal adhesions 
+-tripsy 
+To crush 
+Lithotripsy 
+The crushing of a stone 
+-cid 
+Kill 
+Germicidal 
+Destructive to pathogenic microorganisms
+-graph 
+Instrument to record 
+Cardiograph 
+An instrument used for recording electrical activity of heart beats 
+-graphy 
+Process of recording 
+Angiography 
+Process of recording (by Xray) blood vessels after a dye is injected 
+-gram 
+Record, picture 
+Encephalogram 
+X-ray picture of the brain 
+-meter 
+Instrument for measuring 
+Thermometer 
+An instrument of measuring temperature 
+-metry 
+Process of measuring 
+Pelvimetry 
+Measurement of the capacity and diameter of the pelvis 
+-scope 
+instrument for examining 
+Endoscope 
+instrument for examining within 
+-scopy 
+Examination, view 
+Otoscopy 
+Examination of the ear by means of the otoscope
+-algia 
+Pain
+Neuralgia
+pain of a nerve
+-algesia 
+Pain 
+Neuralgia 
+pain of a nerve 
+-dynia 
+pain
+Otodynia 
+pain in the ear 
+-itis 
+Inflammation 
+Gastritis 
+Inflammation of the stomach 
+-cele 
+Hernia, swelling 
+Hepatocele 
+Hernia of the liver 
+-ectasis 
+Dilation, expansion 
+Bronchiectasis 
+Chronic dilation of one or both bronchi 
+-edema 
+Swelling 
+Lymphedema 
+swelling and accumulation of tissue fluid 
+-emesis 
+Vomiting 
+Hyperemesis 
+excessive vomiting 
+-emia 
+blood condition 
+Anemia 
+blood condition caused by a decrease in red blood cells 
+-gen
+Producing, beginning, origin 
+Carcinogen 
+Any substance that causes cancer 
+-malacia 
+Softening 
+Osteomalacia 
+Softening of the bones 
+-megaly
+ Enlargement 
+Hepatomegaly 
+Enlargement of the liver 
+-oma 
+Tumor 
+Adenoma 
+Tumor of glandular cells 
+-ptosis 
+Prolapse, falling ,dropping 
+Hysteroptosis 
+Downword displacement or prolapse of the uterus 
+-rhage 
+Burst forth 
+Hemorrhage 
+The escape of blood from vessels, excessive bleeding 
+-rhea 
+Discharge, flow 
+Diarrhea 
+abnormally frequent discharge or flow of fluid fecal matter from the bowel
+-rhexis 
+Rupture 
+Angiorrhexis 
+Rupture of vessel, specially a blood vessel 
+-pathy 
+Disease 
+Nephropathy 
+Disease of the kidneys 
+-penia 
+Decrease, deficiency
+Leukocytopenia 
+Reduction of the number of leukocytes 
+-phagia 
+Eating, swallowing 
+Dysphagia 
+Difficulty in swallowing or eating 
+-phasia 
+Speech 
+Aphasia 
+Loss of the power of expression by speech. 
+-plegia 
+Paralysis 
+Hemiplegia 
+Paralysis of one side of the body 
+-phobia 
+Fear 
+Acrophopia 
+Morbid fear of heights
+-sclerosis 
+Hardness 
+Arteriosclerosis 
+Thickening and loss of elasticity of arterial walls 
+-spasm 
+Involuntary contraction, twitching of a muscle 
+Blepharospasm 
+Spasm of the eyelids 
+-stenosis 
+Narrowing, stricture 
+Arteriostenosis 
+Abnormal narrowing of an artery 
+-toxic 
+Poison 
+Hepatotoxic 
+poisonous to the liver

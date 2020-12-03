@@ -1,0 +1,300 @@
+Or/o 
+Mouth 
+Perioral 
+Around the mouth 
+Stoma, Stomat/o 
+Mouth 
+Stomatitis 
+Inflammation of the mouth 
+Gingiv/o 
+Gum (gingiva) 
+Gingivectomy 
+Excision of gum tissue 
+Lingu/o 
+Tongue 
+Sublingual 
+Under the tongue 
+Gloss/o 
+Tongue 
+Glossopharyngeal 
+Pertaining to the tongue and pharynx 
+Gnath/o 
+Jaw 
+Micrognathia 
+Excessive smallness of the jaw 
+Dent/o, Dent/i 
+Tooth, teeth 
+Dental 
+Pertaining to the teeth 
+Odont/o 
+Tooth, teeth 
+Periodontist 
+Dentist who treats the tissues around the teeth 
+Sial/o 
+Saliva, salivary gland, Salivary ,duct 
+Sialogram 
+Radiograph of the salivary glands and ducts
+Esophag/o
+Esophagus 
+Esophageal 
+Pertaining to the esophagus 
+Gastr/o 
+Stomach 
+Gastralgia 
+Pain in the stomach 
+Pylor/o 
+Pylorus 
+Pylorostenosis 
+Narrowing of the pylorus 
+Duoden/o 
+Duodenum 
+Duodenoscopy 
+Endoscopic examination of the duodenum 
+Enter/o 
+Intestine 
+Enteropathy 
+Disease of the intestine 
+Col/o, Colon/o 
+Colon 
+Colocentesis 
+Surgical puncture of the colon 
+Rect/o 
+Rectum 
+Rectocele 
+Hernia of the rectum 
+Proct/o 
+Rectum 
+Proctopexy 
+Surgical fixation of the rectum 
+An/o 
+Anus 
+Transanal 
+Through the anusMedical Terminology 
+Hepat/o 
+Liver 
+Hepatocyte 
+A liver cell 
+Bili 
+Bile 
+Biliary 
+Pertaining to the bile or bile ducts 
+Chol/e, chol/o 
+Bile, gall 
+Cholelith 
+Gallstone, biliary calculus 
+Cholecyst/o 
+Gallbladder 
+Cholecystorrhaphy 
+Suture of the gallbladder 
+Pancreat/o 
+Pancreas 
+Pancreatolysis 
+Destruction of the pancreas by pancreatic enzymes
+Ren/o 
+Kidney
+Renography 
+X-ray examination of the kidney 
+Nephr/o 
+Kidney 
+Nephritis 
+Inflammation of the kidney 
+Ureter/o 
+Ureter 
+Ureterostenosis 
+Narrowing of the ureter 
+Cyst/o 
+Bladder 
+Cystotomy 
+Incision of the bladder 
+Vesic/o 
+Bladder 
+Intravesical 
+Within the urinary bladder 
+Urethr/o 
+Urethra 
+Urethroscopy 
+Endoscopic examination of the urethra 
+Ur/o 
+Urine, Urinary tract 
+Urosepsis 
+Generalized infection that originates in the urinary Tract 
+Urin/o 
+Urine 
+Urination 
+Discharge of urine 
+Lith/o 
+Stone 
+Lithotripsy 
+Crushing of a stone
+Endocrin/o 
+Endocrine glands or system 
+Endocrinopathy 
+Any disease of the endocrine glands 
+Pituitar 
+Pituitary gland, hypophysis 
+Pituitarism 
+Condition caused by any disorder of pituitary function 
+Hypophys 
+Pituitary gland, hypophysis 
+Hypophyseal 
+Pertaining to the pituitary gland 
+Thyr/o, thyroid/o 
+Thyroid gland 
+Thyrotropic 
+Acting on the thyroid gland 
+Parathyr/o, parathyroid/o 
+Parathyroid gland
+Parathyroidectomy
+Excision of a parathyroid gland 
+Adren/o, adrenal/o 
+Adrenal gland, epinephrine 
+Adrenergic 
+Activated (erg-) by or related to epinephrine (adrenaline) 
+Adrenocortic/o 
+Adrenal cortex 
+Adrenocortical 
+Pertaining to the adrenal cortex 
+Insul/o 
+Pancreatic islets 
+Insuloma 
+Tumor of islet cells
+Neur/o, neur/i 
+Nervous system, nervous tissue, nerve 
+Neurotoxic 
+Harmful or poisonous to a nerve or nervous tissue 
+Gangli/o, Ganglion/o 
+Ganglion 
+Ganglionectomy 
+Surgical removal of a ganglion 
+Mening/o, Meninge/o 
+Meninges 
+Meningocele 
+Hernia of the meninges through the skull or spinal column 
+Myel/o 
+Spinal cord (also bone marrow) 
+Myelodysplasia
+Abnormal development of the spinal cord
+Andr/o
+Male 
+Andrology 
+The medical specialty that deals with male health. 
+Test/o 
+Testis (plural, Testes) 
+Testectomy 
+Excision of a testis 
+Orch/o
+Testis (plural, Testes)
+Orchitis 
+Inflammation of testes 
+Orchi/o 
+Testis (plural, Testes)
+Orchialgia 
+Pain in the testes 
+Orchid/o 
+Testis (plural, Testes)
+Orchidoptosis 
+Downward displacement of the testes. 
+Epididym/o 
+Epididymis 
+Epididymotomy 
+Incision of the epididymis 
+Osche/o 
+Scrotum 
+Oscheoma 
+Tumor of the scrotum 
+Vas/o 
+Vas deferens, also vessel 
+Vasorrhaphy 
+Suture of the vas deferens 
+Vesicul/o 
+Seminal vesicle 
+Vesiculography 
+Radiographic study of the seminal vesicles 
+Prostat/o 
+Prostate 
+Prostatometer 
+Instrument for measuring the prostate. 
+Sperm/i, spermat/o 
+Semen, Spermatozoa 
+Oligospermia 
+Deficiency of spermatozoa
+Gyn/o, gynec/o* 
+Woman 
+Gynecology 
+Study of diseases of women 
+Men/o, mens 
+Month, menstruation 
+Menopause 
+Absence of menses. 
+Oo 
+Ovum, egg cell 
+Oocyte 
+Cell that gives rise to an ovum 
+Ov/o
+Ovum, egg cell
+Ovulation 
+Release of an ovum from the ovary 
+Ovari/o 
+Ovary
+Ovarian 
+Pertaining to an ovary 
+Oophor/o 
+Ovary
+Oophorotomy 
+Incision of an ovary 
+Uter/o 
+Uterus 
+Uterine 
+Pertaining to the uterus 
+Metr/o,metr/i 
+Uterus
+Metrorrhagia 
+Abnormal uterine bleeding 
+Hyster/o 
+Uterus
+Hysteroscopy 
+Endoscopic examination of the uterus 
+Vagin/o 
+Vagina 
+Vaginoplasty 
+Plastic repair of the vagina 
+Colp/o 
+Vagina
+Colpocele 
+Hernia of the vagina
+Gravida 
+Pregnant woman 
+Multigravida 
+Woman who has been pregnant two or more times 
+Embry/o 
+Embryo 
+Embryonic 
+Pertaining to the embryo 
+Fet/o 
+Fetus 
+Fetoscope 
+Endoscope for examining the fetus 
+Toc 
+Labor 
+Eutocia 
+Normal labor 
+Nat/i 
+Birth 
+Neonate 
+Newborn 
+Lact/o 
+Milk 
+Lactation 
+Secretion of milk 
+Galact/o 
+Milk
+Galactogogue 
+Agent that promotes (-agogue) the flow of milk. 
+Mamm/o 
+Breast 
+Mammogram 
+Radiograph of the breast 
+Mast/o 
+Breast
+Mastopexy 
+Surgical fixation of the breast
