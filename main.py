@@ -147,6 +147,7 @@ for k in range(20):
             safeprint("     Root", o.root)
             safeprint("     Meaning", o.rootm)
             safeprint("     Definition" , o.definition)
+            continue
         elif inp.lower() in o.definition:
             print("DEF:" + o.definition)
             safeprint("     Example", o.example)
